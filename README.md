@@ -1,6 +1,6 @@
 # user-study-on-automatic-music-accompaniment
 
-Here is the user study on project "automatic music accompaniment". The purpose of this study is to find out the quality of the automatic music accompaniment system, i.e. how well the automatic generated accompaniment fits a given melody. This study aims to evaluate the effectiveness of the model developed in project "Automatic Music Accompaniment".
+Here is the user study on project "automatic music accompaniment". The purpose of this study is to find out the quality of the automatic music accompaniment system developed in project "Automatic Music Accompaniment", i.e. how well the automatic generated accompaniment fits a given melody.
 
 Please first see the information sheet, this will tell you what this study is about. If you are willing 
 to take part in, please then fill in the consent form.
