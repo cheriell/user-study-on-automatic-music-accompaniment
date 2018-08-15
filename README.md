@@ -10,8 +10,6 @@ ask for ratings are in folder "music segments", and the additional music pieces 
 in folder "music pieces for general questions". For each music segment, .midi file and .mp3 file are both 
 provided (they are the same) and you can choose to listen to the file format you like.
 
-Once you finished the conscent form and questionnaire, please send it to me at:
-
-liulelecherie@gmail.com
+Once you finished the conscent form and questionnaire, please send it to me at: liulelecherie@gmail.com
 
 Thanks for your time!
