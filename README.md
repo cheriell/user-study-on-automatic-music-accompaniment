@@ -1,5 +1,9 @@
 # user-study-on-automatic-music-accompaniment
 
+### This study is now closed, thanks for your interest! 
+Check study feedbacks <a href="https://github.com/cheriell/user-study-on-automatic-music-accompaniment/blob/master/user%20study%20analysis.ipynb">here</a>.
+<br>
+<br>
 Here is the user study on project "automatic music accompaniment". The purpose of this study is to find out the quality of the automatic music accompaniment system developed in project "Automatic Music Accompaniment", i.e. how well the automatic generated accompaniment fits a given melody.
 
 Please download this user study and first see the **information sheet**, this will tell you what this study is about. The study will take **around 30 minutes** to finish. If you are willing to take part in, please then fill in the **consent form**.
