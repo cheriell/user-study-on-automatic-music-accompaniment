@@ -23,6 +23,8 @@
 20. The endings of the music is a bit unexpected, a lot note repetitions in the final piece. But the first piece for this quesiton is pretty good.
 21. Not stable enough in the transitions. Some mistakes in the harmonicity and key following. Not giving a clear ending for music phrases.
 22. People will get some ideas from the piano roll.
+23. The music is not connected very well. Sometimes it plays the same tone repeatedly.
+24. I think maybe automatic accompaniment can give some ideas for professional composers, it plays well for every several seconds, but not very well for the complete segment.
 
 ### Some comments on the user study are:
 
